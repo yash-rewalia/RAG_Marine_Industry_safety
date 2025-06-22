@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+langchain
+openai
+faiss-cpu
+sentence-transformers
+tqdm
+python-dotenv
+PyPDF2
+python-docx
+unstructured
+pydantic
+langchain_community
